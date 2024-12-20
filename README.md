@@ -1,4 +1,4 @@
-# Maven Fuzzy Factory SQL Queries
+# Traffic Analysis SQL Queries
 
 This README provides an overview of SQL queries used to analyze traffic, conversion rates, trends, and landing page performance for the Maven Fuzzy Factory dataset. The queries cover diverse scenarios, from basic traffic breakdowns to advanced trend analyses and landing page tests.
 
