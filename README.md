@@ -236,27 +236,4 @@ GROUP BY 1;
 
 ---
 
-## 11. Landing Page Performance (January 2014)
-
-### Steps to Analyze:
-1. Find the first page views for relevant sessions.
-2. Identify landing pages.
-3. Count bounces (sessions with only one pageview).
-4. Summarize total sessions and bounced sessions.
-
----
-
-## 12. Landing Page Test Analysis
-
-### Steps:
-1. Identify the launch date of the new page.
-2. Analyze session data for "/lander-1" and compare to other pages.
-3. Summarize sessions and bounces by page.
-
----
-
-### Notes:
-- Temporary tables are used extensively to organize intermediate results.
-- Filters are applied to focus on specific campaigns, devices, or timeframes.
-- Advanced metrics such as conversion rates and bounce rates are calculated for better insights.
 
